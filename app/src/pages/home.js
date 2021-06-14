@@ -1,10 +1,11 @@
 import {useState} from 'react';
+import TemporaryDrawer from '../components/drawer'
 
 export const Home = () => {
 
     
 
     return (
-        <h1>HI</h1>
+        <TemporaryDrawer />
     )
 }
